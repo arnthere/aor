@@ -5,7 +5,8 @@
       <div class="col col-7 c-padding-1">
         <div class="row">
           <div class="col">
-            <div>
+            <div class="py-4">
+              <label>Select Message Template</label>
               <select class="form-select mb-3">
                 <option selected>Open this select menu</option>
                 <option>One</option>
@@ -15,7 +16,8 @@
             </div>
           </div>
           <div class="col">
-            <div>
+            <div class="py-4">
+              <label>Business To Be Reviewed</label>
               <select class="form-select mb-4">
                 <option selected>Open this select menu</option>
                 <option>One</option>
